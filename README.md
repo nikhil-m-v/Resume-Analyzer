@@ -7,4 +7,5 @@ A software that could be useful for freshers to analyze the quality of their res
 
 ![WhatsApp Image 2023-07-19 at 6 37 28 PM (2)](https://github.com/nikhil-m-v/Resume-Analyzer/assets/170814535/0ecd5773-426c-4f51-9099-8b9cccbd1fb6)
 
-![Uploading WhatsApp Image 2023-07-19 at 6.37.28 PM (4).jpeg…]()
+![WhatsApp Image 2023-07-19 at 6 37 28 PM (4)](https://github.com/nikhil-m-v/Resume-Analyzer/assets/170814535/ec0e86c1-2fa5-4648-b749-9d3725d65f16)
+
